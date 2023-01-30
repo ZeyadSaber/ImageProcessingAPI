@@ -1,6 +1,5 @@
 import express from 'express';
 import fs from 'fs/promises';
-import { clearConfigCache } from 'prettier';
 import sharp from 'sharp';
 
 // check if all parameters are in the request;
